@@ -272,7 +272,7 @@ body {
     }
 }
 
-
+/* Animation for product cards loading */
 .product-card.fade-in {
     animation: fadeInUp 0.6s ease forwards;
 }
